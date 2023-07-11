@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ex001_variable.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <option name="filePath" value="$PROJECT_DIR$/ex001_variable.dart" />
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
